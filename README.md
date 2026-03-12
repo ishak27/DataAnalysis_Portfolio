@@ -13,7 +13,7 @@ Python (pandas, matplotlib) - Intermediate ⭐⭐
 
 🎯 Currently Learning:
 🐍 Python for Data Analysis (pandas, matplotlib, seaborn)
-📊 Advanced Power BI (DAX formulas, complex dashboards)
+📊 Advanced Power BI (DAX formulas, complex dashboards, reports)
 🗄️ Advanced SQL (window functions, subqueries)
 
 
@@ -28,4 +28,4 @@ Goal: Land a Data Analyst internship while studying & full-time role after gradu
 Self-learning SQL, Power BI and Python alongside my degree
 🤝 Open to internships, college projects, and collaborations
 
-⭐ "Not just analyzing data — extracting value from it."
+"Not just analyzing data — extracting value from it."
