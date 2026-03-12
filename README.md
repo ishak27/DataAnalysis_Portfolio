@@ -5,10 +5,12 @@ I'm a 2nd year B.Tech Engineering student studying in Punjab, India, passionate 
 
 
 🛠️ Skills:
-SkillLevelSQL - Intermediate ⭐⭐
-Microsoft Excel - Intermediate ⭐⭐⭐
-Power BI Beginner – Intermediate ⭐⭐
-Python (pandas, matplotlib) - Intermediate ⭐⭐
+| Skill | Level |
+|-------|-------|
+| SQL | Intermediate ⭐⭐⭐ |
+| Microsoft Excel | Intermediate ⭐⭐⭐ |
+| Power BI | Beginner–Intermediate ⭐⭐ |
+| Python (pandas, matplotlib) | Learning 🔄 |
 
 
 🎯 Currently Learning:
@@ -23,9 +25,9 @@ Punjab, India
 
 
 🌱 About Me:
-B.Tech student exploring the world of data analytics
-Goal: Land a Data Analyst internship while studying & full-time role after graduation
-Self-learning SQL, Power BI and Python alongside my degree
-🤝 Open to internships, college projects, and collaborations
+B.Tech Engineering Student | Data Enthusiast 📊
+Quietly learning. Consistently building.
+SQL • Excel • Power BI • Python
+Open to internships & collaborations 🤝
 
 "Not just analyzing data — extracting value from it."
