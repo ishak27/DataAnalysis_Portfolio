@@ -20,7 +20,7 @@ I'm a 2nd year B.Tech Engineering student studying in Punjab, India, passionate 
 
 
 🎓 Education:
-B.Tech Engineering — 2nd Year (currently pursuing)
+Bachelor in Engineering — 2nd Year (currently pursuing)
 Punjab, India
 
 
