@@ -7,10 +7,10 @@ I'm a 2nd year B.Tech Engineering student studying in Punjab, India, passionate 
 🛠️ Skills:
 | Skill | Level |
 |-------|-------|
-| SQL | Intermediate ⭐⭐⭐ |
-| Microsoft Excel | Intermediate ⭐⭐⭐ |
-| Power BI | Beginner–Intermediate ⭐⭐ |
-| Python (pandas, matplotlib) | Learning 🔄 |
+| SQL | Intermediate  |
+| Microsoft Excel | Intermediate  |
+| Power BI | Beginner–Intermediate  |
+| Python (pandas, matplotlib) | Learning  |
 
 
 🎯 Currently Learning:
