@@ -1,8 +1,9 @@
 # DataAnalysis_Portfolio
 Hi there, I'm Isha Kashyap! 
-👩‍💻 Aspiring Data Analyst | B.Tech Student | SQL • Excel • Power BI • Python
-I'm a 2nd year B.Tech Engineering student studying in Punjab, India, passionate about turning raw data into meaningful insights.
-I'm actively building my data analytics skills alongside my degree and looking for internship opportunities to kickstart my career.
+B.E CSE (AI & ML) | 2nd Year | Punjab, India
+I enjoy working with data, building dashboards and
+finding insights that actually mean something.
+Currently seeking internships to kickstart my journey. ✨
 
 
 🛠️ Skills:
