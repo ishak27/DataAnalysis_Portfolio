@@ -1,6 +1,6 @@
 # DataAnalysis_Portfolio
 Hi there, I'm Isha Kashyap! 
-B.E CSE->AI&ML | 2nd Year | Punjab, India
+B.E CSE-->AI&ML | 2nd Year | Punjab, India
 I enjoy working with data, building dashboards and
 finding insights that actually mean something.
 Currently seeking internships to kickstart my journey. ✨
